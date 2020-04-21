@@ -1,0 +1,9 @@
+.navbar__top__box{
+    display: flex;
+    &__login{
+        display: block;
+        &__link{
+            display: none;
+        }
+    }
+}
